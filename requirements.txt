@@ -1,0 +1,8 @@
+requests
+django==5.0
+python-dotenv
+psycopg
+psycopg2
+djangorestframework
+django-debug-toolbar
+
